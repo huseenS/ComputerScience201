@@ -1,0 +1,25 @@
+Tests:
+
+TSP 8:
+cost 193
+Time: 1 milliseconds
+
+TSP 9:
+cost 145
+Time: 0 milliseconds
+
+TSP 10:
+cost 298
+Time: 4 milliseconds
+
+TSP 15:
+cost 206
+Time: 1 milliseconds
+
+TSP 25:
+cost 339
+Time: 3 milliseconds
+
+TSP 26:
+cost 345
+Time: 1 milliseconds
